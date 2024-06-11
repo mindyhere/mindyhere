@@ -1,25 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Welcome!&fontSize=75)
-<div>
-<span align=left>
-<div>
-<h3>Hi there 👋</h3>
+<div align=center>
+
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Hello!&fontSize=75)
   
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-  
-</div>      
+</div>
 
-</span>
+<div align=center>
+  <h3>Hi there 👋</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML/CSS-e34f26?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logoColor=white" />
 
-<br/>
+</div>  
 
-<span align=right>
+<hr/>
 
-<a href="https://github.com/mindyhere?tab=repositories">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindyhere&layout=compact&exclude_repo=python-practice&card_width=320" />
-</a>
- <img src="https://github-readme-stats.vercel.app/api?username=mindyhere&show_icons=true" />
-</span>
+<div align=center >
+  <a href="https://github.com/mindyhere/final-project">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=mindyhere&show_icons=true&card_width=320" />
+  </a>  
+  <a href="https://github.com/mindyhere?tab=repositories">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindyhere&layout=compact&exclude_repo=python-practice&card_width=320" />
+  </a>
 </div>
 
 
