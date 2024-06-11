@@ -4,9 +4,11 @@
   
 </div>
 
-<div align=center>
+<div>
   <h3>Hi there 👋</h3>
-  <br/>
+
+  <p>🌱 I’m currently learning... </p>
+  Skills :&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black" />
@@ -15,7 +17,16 @@
   <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logoColor=white" />
-
+  <br/>
+  tools :&nbsp;&nbsp;
+  <br/>
+  <p>📫 How to reach me... </p>
+  <a href="https://github.com/mindyhere">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@92miindy/posts">
+    <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white" />
+  </a>  
 </div>  
 
 <hr/>
