@@ -45,9 +45,11 @@
 </div>  
 <br/>
 <div align=left >
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=mindyhere&show_icons=true" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindyhere&layout=compact&exclude_repo=python-practice" />
-    <img height=160 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=92miindy" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=mindyhere&show_icons=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindyhere&layout=compact&exclude_repo=python-practice" />
+    <br/><br/>
+    <img height=180 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=92miindy" />
+    <img height=180 src="http://mazandi.herokuapp.com/api?handle=92miindy&theme=warm"/>
 
 
 </div>
