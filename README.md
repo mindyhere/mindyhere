@@ -13,7 +13,7 @@
   <br/>
   <hr/>
   <br/>
-  <h4>🌱 I’m currently learning...</h4>
+  <h4>🌱 I’m currently learning ...</h4>
   Skills :&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6dd33f?style=flat-square&logoColor=white" />
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black" />
   <br/>
-  <h4>📫 My channels...</h4>
+  <h4>📫 My channels ...</h4>
     <a href="https://github.com/mindyhere?tab=repositories">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
     </a>
