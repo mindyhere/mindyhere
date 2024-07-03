@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Hello!&fontSize=75)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Welcome to my Channels!&fontSize=75)
   
 </div>
 
@@ -13,13 +13,15 @@
   <br/>
   <hr/>
   <br/>
-  <h4>🌱 I’m currently learning ...</h4>
+  <h4>🧐 I’m used to ...</h4>
   Skills :&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6dd33f?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6dd33f?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML/CSS-e34f26?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logoColor=white" />
@@ -28,8 +30,14 @@
   tools :&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black" />
+  <br/>
+  <h4>🌱 I’ve used AND Currently keep learning ...</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AndroidStudio-3ddc84?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logoColor=white" />
   <br/>
   <h4>📫 My channels ...</h4>
     <a href="https://github.com/mindyhere?tab=repositories">
